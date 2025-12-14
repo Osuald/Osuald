@@ -1,4 +1,4 @@
-# Hi, I’m Osuald Iradukunda
+# Hi, I’m Osuald Iradukunda (Call Me 'Kai')
 
 ### Software Engineer | Mobile Developer | Python & IoT Enthusiast
 
