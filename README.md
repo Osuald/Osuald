@@ -17,7 +17,7 @@ I am especially interested in **mobile development**, **backend systems**, **IoT
 
 ---
 
-## 🚀 What I Do
+## What I Do
 
 - Build **cross-platform mobile apps** using Flutter
 - Develop **backend services and RESTful APIs** with Python
@@ -27,7 +27,7 @@ I am especially interested in **mobile development**, **backend systems**, **IoT
 
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 **Languages**  
 Dart · Python · Java · C/C++ · JavaScript  
@@ -49,7 +49,7 @@ Git & GitHub · VS Code · Linux · Postman · Figma
 
 ---
 
-## 📌 Featured Work
+## Featured Work
 
 - 📱 **Mobile Applications** – Clean UI, strong logic, real users  
 - 🌍 **IoT Prototypes** – Sensor data → cloud → dashboard  
@@ -60,16 +60,16 @@ Git & GitHub · VS Code · Linux · Postman · Figma
 
 ---
 
-## 📊 GitHub Stats
+## GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Osuald&show_icons=true&theme=default&hide_border=true" height="160"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?Osuald&layout=compact&theme=default&hide_border=true" height="160"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Osuald&layout=compact&theme=default&hide_border=true" height="160"/>
 </p>
 
 ---
 
-## 🔥 GitHub Streak
+## 🔥 Osuald's GitHub Streak
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Osuald&theme=default&hide_border=true"/>
@@ -77,7 +77,7 @@ Git & GitHub · VS Code · Linux · Postman · Figma
 
 ---
 
-## 🏆 GitHub Trophies
+## GitHub Trophies
 
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=Osuald&theme=flat&no-frame=true&row=1"/>
@@ -85,7 +85,7 @@ Git & GitHub · VS Code · Linux · Postman · Figma
 
 ---
 
-## 📈 Contribution Activity
+## Contribution Activity
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Osuald&theme=minimal"/>
@@ -93,7 +93,7 @@ Git & GitHub · VS Code · Linux · Postman · Figma
 
 ---
 
-## 🎯 Current Focus
+## Current Focus
 
 - Deep mastery of **Flutter** (architecture, performance, state management)
 - Advanced **Python** for backend, AI, and automation
@@ -102,13 +102,13 @@ Git & GitHub · VS Code · Linux · Postman · Figma
 
 ---
 
-## 🌱 Learning Mindset
+## Learning Mindset
 
 I believe long-term success comes from consistency, discipline, and curiosity. I learn by building, breaking, fixing, and improving. Every project is a step forward.
 
 ---
 
-## 🤝 Let’s Collaborate
+## Let’s Collaborate
 
 I’m open to:
 - Open-source contributions
