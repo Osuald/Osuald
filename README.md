@@ -11,7 +11,7 @@ I am especially interested in **mobile development**, **backend systems**, **IoT
 ## 🔗 Connect With Me
 - 📧 Email: osualdiradukunda16@gmail.com
 -    Phone: 0786736328
-- 🌐 Portfolio: osuald.vercel.app
+- 🌐 Portfolio: https://osuald.vercel.app
 - 🧠 GitHub: https://github.com/Osuald
   
 ## 🌐 Socials:
