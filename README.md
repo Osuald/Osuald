@@ -1,4 +1,4 @@
-# Hi, I’m Osuald Iradukunda (Call Me 'Kai')
+# Hi, I’m Osuald Iradukunda (Kai)
 
 ### Software Engineer | Mobile Developer | Python & IoT Enthusiast
 
@@ -10,7 +10,8 @@ I am especially interested in **mobile development**, **backend systems**, **IoT
 
 ## 🔗 Connect With Me
 - 📧 Email: osualdiradukunda16@gmail.com
-- 🌐 Portfolio: coming soon
+-    Phone: 0786736328
+- 🌐 Portfolio: osuald.vercel.app
 - 🧠 GitHub: https://github.com/Osuald
   
 ## 🌐 Socials:
